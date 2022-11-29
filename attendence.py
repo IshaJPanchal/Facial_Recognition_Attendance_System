@@ -34,7 +34,7 @@ def faceEncodings(images):
     return encode_list
 
 def attendance(name):
-    with open('Attendence.csv', 'r+') as f:
+    with open('Attendance.csv', 'r+') as f:
         my_data_list = f.readlines()
         name_list = []
         csvwriter = csv.writer(f)

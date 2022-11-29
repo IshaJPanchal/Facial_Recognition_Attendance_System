@@ -1,4 +1,4 @@
-# Facial_Recognition_Attendence_System
+# Facial_Recognition_Attendance_System
 It uses HOG algorithm to recognize faces from group image and mark their attendance in the system
 
 The system calls the image files of students stored in the local storage and encodes their facial features in encodings.
